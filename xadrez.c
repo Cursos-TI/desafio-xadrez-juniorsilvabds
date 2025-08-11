@@ -31,5 +31,5 @@ int main() {
         i++;
     } while (i <= casasRainha);
 
-    return 0;
+    return 0
 }
